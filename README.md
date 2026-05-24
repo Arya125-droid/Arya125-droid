@@ -29,8 +29,8 @@ I am a **Full-Stack Developer** and a **Mathematics undergraduate**. I thrive at
       <br />Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
-      <br />PostgreSQL
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br />Express
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
