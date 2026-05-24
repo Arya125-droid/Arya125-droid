@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Arya125-droid&label=Profile%20views&color=0e76a8&style=flat" alt="views" />
 </p>
 
-I am a **Full-Stack Developer** and a final-year **Mathematics undergraduate at IIT Kharagpur**. I thrive at the intersection of clean code and analytical problem-solving—building elegant frontends, robust backends, and applying statistical models to real-world optimizations.
+I am a **Full-Stack Developer** and a **Mathematics undergraduate**. I thrive at the intersection of clean code and analytical problem-solving—building elegant frontends, robust backends, and applying statistical models to real-world optimizations.
 
 ---
 
@@ -51,7 +51,7 @@ I am a **Full-Stack Developer** and a final-year **Mathematics undergraduate at 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arya125-droid&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Arya125-droid&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arya125-droid&theme=rose&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
