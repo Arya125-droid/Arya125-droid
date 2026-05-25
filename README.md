@@ -1,4 +1,4 @@
-# Hi there! 👋 👨‍💻
+# Hi there, I am Arya! 👋 👨‍💻
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Arya125-droid&label=Profile%20views&color=0e76a8&style=flat" alt="views" />
