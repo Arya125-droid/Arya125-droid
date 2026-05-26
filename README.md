@@ -42,9 +42,9 @@ I am a **Full-Stack Developer** and a **Mathematics undergraduate**. I thrive at
 ---
 
 ### 🧠 Interests & Musings
-- 📊 **Advanced Statistics & Probability:** Fascinated by statistical inference, probability distributions, and data-driven optimizations.
-- ⚙️ **Systems & Web Architecture:** Building responsive web apps, handling complex states, and designing efficient APIs.
-- ⚽ **Beyond the Terminal:** Huge football fan, fiercely loyal to Manchester United, and always down to talk football strategy.
+- **Advanced Statistics & Probability:** Fascinated by statistical inference, probability distributions, and data-driven optimizations.
+- **Systems & Web Architecture:** Building responsive web apps, handling complex states, and designing efficient APIs.
+- **Beyond the Terminal:** Huge football fan, fiercely loyal to Tottenham Hotspur, and always down to talk football strategy.
 
 ---
 
